@@ -1,0 +1,9 @@
+http://127.0.0.1:5000/Carro
+
+Body - raw - JSON 
+
+{
+    "Nome": "Notebook Gamer",
+    "Categoria": "Eletrônico",
+    "Preço": 2975
+}
